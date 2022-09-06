@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JQWeb
+- 👀 I’m interested in Music, Development & Online Marketing
+- 🌱 I’m currently learning PHP
